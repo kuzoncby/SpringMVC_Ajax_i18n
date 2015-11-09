@@ -1,0 +1,13 @@
+#button {
+    cursor: pointer;
+    color: #0012fc;
+    text-align: center;
+    width: 100px;
+}
+
+
+td {
+    border-color: #6495ED;
+    background-color: #BCD2EE;
+    text-align: center;
+}

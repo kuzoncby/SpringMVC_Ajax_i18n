@@ -1,0 +1,130 @@
+@CHARSET "UTF-8";
+
+@keyframes myfirst 
+	{
+	0%   {left: 0px;}
+	18%   {left: 0px;}
+	20%   {left: -800px;}
+	38%   {left: -800px;}
+    40%   {left: -1600px;}
+	58%   {left: -1600px;}
+	60%   {left: -2400px;}
+	78%   {left: -2400px;}
+	80%   {left: -3200px;}
+	98%   {left: -3200px;}
+	100%   {left: -0px;}
+	}
+
+	@-o-keyframes myfirst 
+	{
+	0%   {left: 0px;}
+	18%   {left: 0px;}
+	20%   {left: -800px;}
+	38%   {left: -800px;}
+    40%   {left: -1600px;}
+	58%   {left: -1600px;}
+	60%   {left: -2400px;}
+	78%   {left: -2400px;}
+	80%   {left: -3200px;}
+	98%   {left: -3200px;}
+	100%   {left: -0px;}
+	}
+
+	@-moz-keyframes myfirst 
+	{
+	0%   {left: 0px;}
+	18%   {left: 0px;}
+	20%   {left: -800px;}
+	38%   {left: -800px;}
+    40%   {left: -1600px;}
+	58%   {left: -1600px;}
+	60%   {left: -2400px;}
+	78%   {left: -2400px;}
+	80%   {left: -3200px;}
+	98%   {left: -3200px;}
+	100%   {left: -0px;}
+	}
+
+	@-webkit-keyframes myfirst
+	{
+	0%   {left: 0px;}
+	18%   {left: 0px;}
+	20%   {left: -800px;}
+	38%   {left: -800px;}
+    40%   {left: -1600px;}
+	58%   {left: -1600px;}
+	60%   {left: -2400px;}
+	78%   {left: -2400px;}
+	80%   {left: -3200px;}
+	98%   {left: -3200px;}
+	100%   {left: -0px;}
+	}
+
+	@keyframes myfirstArr
+	{
+	0%   {left: 0px;}
+
+	19%   {left: 0px;}
+	20%   {left: 30px;}
+
+	39%   {left: 30px;}
+	40%   {left: 60px;}
+	59%   {left: 60px;}
+	60%   {left: 90px;}
+	79%   {left: 90px;}
+	80%   {left: 120px;}
+	99%   {left: 120px;}
+	100%   {left: 0px;}
+	}
+
+
+	@-webkit-keyframes myfirstArr
+	{
+	0%   {left: 0px;}
+
+	19%   {left: 0px;}
+	20%   {left: 30px;}
+
+	39%   {left: 30px;}
+	40%   {left: 60px;}
+	59%   {left: 60px;}
+	60%   {left: 90px;}
+	79%   {left: 90px;}
+	80%   {left: 120px;}
+	99%   {left: 120px;}
+	100%   {left: 0px;}
+	}
+
+	@-moz-keyframes myfirstArr
+	{
+	0%   {left: 0px;}
+
+	19%   {left: 0px;}
+	20%   {left: 30px;}
+
+	39%   {left: 30px;}
+	40%   {left: 60px;}
+	59%   {left: 60px;}
+	60%   {left: 90px;}
+	79%   {left: 90px;}
+	80%   {left: 120px;}
+	99%   {left: 120px;}
+	100%   {left: 0px;}
+	}
+
+	@-o-keyframes myfirstArr
+	{
+	0%   {left: 0px;}
+
+	19%   {left: 0px;}
+	20%   {left: 30px;}
+
+	39%   {left: 30px;}
+	40%   {left: 60px;}
+	59%   {left: 60px;}
+	60%   {left: 90px;}
+	79%   {left: 90px;}
+	80%   {left: 120px;}
+	99%   {left: 120px;}
+	100%   {left: 0px;}
+	}
